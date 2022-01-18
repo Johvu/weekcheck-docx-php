@@ -1,5 +1,5 @@
 <?php
-// needed addon
+// needed addon path
 include('./docx_reader.php');
 //checks the year
 $Year = date('Y');
